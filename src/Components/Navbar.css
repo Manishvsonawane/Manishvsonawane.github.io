@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    color: teal;
+    background: black;
+    font-weight: bold;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+   /* border: 1px solid red; */
+}
